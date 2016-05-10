@@ -1,0 +1,203 @@
+Hesitation Blues 
+Trad., after J. Kaukonnen
+
+Country Blues tune, in "swung" 4/4, i.e. every quarter is subdivided in 3 (or you can think of it as 12/8, if you'd rather).  When this sort of thing is written down, it is traditionally written as dotted time, but the eighth note is really only 1/3 of a quarter note, not 1/2.  Clear as mud? Count it as ah 1 and ah 2 and ah 3 and ah 4, with all syllables the same length, and you'll do fine.  Quarter notes are at a normal walking speed.
+
+Notes:
+1. Low notes, on the beat, are always played by the thumb
+2. I use the chord positions marked above the tab to play all the
+   other notes--just use the most obvious convenient finger within
+   the chord (or nearby) to fret the tabbed notes
+3.
+/= 1-fret rising slur, //= 2, etc.
+^= 1/2 tone push
+x= damped note
+h= hammer on
+!= Broken chord (rapid arpeggio, bass>treble)
+==== sustained note
+
+4. The vamp in the first line shows h's before the treble notes in the
+   Am and E7 chords: these are hammered on on the beat, but not plucked.
+
+5. There are probably some errors-- if it doesn't sound right, you'll
+   know.  It is pretty obvious, once you get the feel.  I never play it
+   exactly the same, two verses running, so this is just a template.
+
+I'm not at all sure of the first line of that last verse, but it's
+my best guess.  I'd be happy to hear alternate "translations".
+
+
+
+Hesitation Blues 
+        Am          E7           Am          E7
+e-----|-----------------O-------|-----------------O-------
+B-----|h1x----1-----O---3-------|h1x----1-----O---3-------
+G---O-|h2x----2---Oh1---------O-|h2x----2---Oh1---------O-
+D-----|h2x----2----h2-----2-----|h2x----2----h2-----2-----
+A-----|-Ox---------h2-----------|-Ox---------h2-----------
+E-----|-------------O-----------|-------------O-----------
+4 + a   1 + a 2 + a 3 + a 4 + a   1 + a 2 + a 3 + a 4 + a
+a       nickel is a nickel and a  dime is a  dime
+
+ Am           E             C          C7
+|-----------------O-1---2-|!3---O-------------------
+|h1x----1-----O-----------|!1-----1---------3-1-----
+|h2x----2---Oh1---------O-|!O---------4-3---------O-
+|h2x----2----h2-----2-----|-------2-----------2-----
+|-Ox---------h2-----------|!3-----------3-----------
+|-------------O-----------|-------------------------
+  1 + a 2 + a 3 + a 4 + a   1 + a 2 + a 3 + a 4 + a
+     I need a new gal          she won't mind, tell me --
+
+Chorus:
+   F           F              F          F
+e|-------------------------|-------------------------
+B|-1x----3x----3^====3---1====x----3x----3^====3---1-
+G|-2x----2x----------2---2====x----2x----------2---2-
+D|-3x----------3-----------|-3x----------3-----------
+A|-------------------------|-------------------------
+E|-------------------------|-------------------------
+   1 + a 2 + a 3 + a 4 + a   1 + a 2 + a 3 + a 4 + a
+     How long                      do I have to    wait?
+
+   C7                        C7
+e|-------------------------|-------------------------
+B|-------1x----------------|-1x----------------------
+G|-------3x----2-/-3====x--|-3x----2-/-3====---------
+D|-------2x----1-/-2====x--|-2x----1-/-2====---------
+A|-3x----------2-/-3====x3x|-------2-/-3====--------- OR:-----O---1--|-2
+E|-------------------------|-----------------O-1---2-    ---3--------|--
+   1 + a 2 + a 3 + a 4 + a   1 + a 2 + a 3 + a 4 + a        a 4 + a
+
+   G7                        G7
+e|-------1---------1-------|-------------------------
+B|-----------3-------------|-----------5-4-----3-----
+G|-----O-----------------O-|-----O-----------O-----O-
+D|-------O-----------O-----|-----//5-----4-----3-----
+A|-------------------------|-------------------------
+E|-3x----------3-----------|-3-----------------------
+   1 + a 2 + a 3 + a 4 + a   1 + a 2 + a 3 + a 4 + a
+Can I    get you now,    Lord,     must  I     hesi-
+
+   C     C7    F     Fm6     C           G7
+e|-------------------------|-----------1===========--
+B|-----1-------1-----1-----|-1---------O===========--
+G|-------3-----2-----1-----|-O---O-----O===========--
+D|-------2-----3-----O-----|-------------O-----------
+A|-3-----------------------|-3-----------------------
+E|-------------------------|-------3-----------3-----
+   1 + a 2 + a 3 + a 4 + a   1 + a 2 + a 3 + a 4 + a
+  -tate?
+
+  Am          E7           Am        E7
+A nickel is a nickel and a dime is a dime,
+Am         E        C          C7
+  I need a new gal,   she won't mind, tell me ...
+
+Chorus:
+F
+How long do I have to wait?
+G7                                     C  C7  F  Fm6  C  G7
+Can I get you now, Lord, must I hesitate?
+
+Well, the eagle on the dollar says "in God we trust",
+You say you want a man, I wanna see that dollar first, tell me ...
+
+Chorus
+
+If the river was whiskey, and I was a duck,
+You know I'd swim to the bottom, Lord, never come up, tell me ...
+
+Chorus
+
+Rocks in the ocean, baby, fish in the sea,
+knows you mean the world to me, tell me ...
+
+Chorus
+
+Well, the hesitatin' stalker's got them hesitatin' shoes,
+Lord, I got them Hesitatin' Blues, tell me ...
+
+Chorus
+Said, can I get you now, how long must I hesitate?
+
+Looked down the road as far as I could see,
+Another man had my woman, and the blues had me, tell me ...
+
+Chorus
+
+I ain't no doctor, I'm the doctor's son
+You can't get the doctor 'til the doctor's done, tell me ...
+
+Chorus
+
+I've got the hesitatin' stockings, got the hesitatin' shoes,
+Oh my Lord, I've got the hesitation blues, tell me ...
+
+Chorus
+Said, can I get you now, how long must I hesitate?
+
+
+Dave Van Ronk version:
+ It is in Em, modulating to G to finish up as a blues, and going to B7 at the end to return to Em. Very different from the way Jorma plays it, this is the version I learned first and still like best. Specifically, the chords are: 
+|: Em B7| Em B7| Em B7| Em B7/A G7 |C |C7 |G |G7 |D7 |C7 |Em |B7 :|
+adding up to 12 fairly easy bars o' blues. The first few bars revolve around a shape in which the barre (1st finger) continues to hold down the first string but is lifted from the 6th (bass E) for the open string. 
+I'm not sure how available the Van Ronk version is; anyone needing a copy can email me, I'll send a wav of one verse. The verse is played one time through as the intro.
+
+                             Hesitation Blues
+
+----3---4-2--|---3---4-2--|---3---4-2---|-3--2-1-1---|
+--5---4-4-2--|-5---4-4-2--|-5---4-4-4--4|s5--4-3-3---|
+-------------|------------|-------------|------------|
+-------------|------------|-------------|------------|
+-------------|------------|-------------|------------|
+--0--0--2--2-|-0--0--2--2-|-0--0--2--2--|-0--2--3--3-|
+Standin ..............hand  Lookin .............man,tell me
+
+--0-3-0-3---|------6--5-6----|--------------|-1-0----0-1---------|
+--1-1-1-1---|-s----5--5--5---|-1-2-3------3-|-----3--------------|
+------------|-s----5--5--5---|-0------------|------------------2-|
+-2--2--2--2-|-s-5-----5------|--------------|--------------------|
+-3-----3----|----------------|--------------|--------------------|
+------------|----------------|-3--3--3--3---|-3-----3----3--3----|
+   How long....................have to wait.................Can I
+
+-----------------|---3-1----------|-----3---3-3-------|---2---2----------|
+---3---1--3------|-------3-1------|-------------------|---0---0----0-----|
+-----2---------0-|-----------3----|-------------------|---2---2----2-----|
+---0---------0---|----------------|-------------------|-----1--------1---|
+-----------------|-3---3---3---3--|------------0-1-2--|-2---2---2----2---|
+-2-----2---------|----------------|-3---3---3---------|------------------|
+get you now.............or must I hesi-tate.
+
+Standin' on the corner with a dollar in my hand
+Lookin' for a woman who ain't got no man, tell me
+How long do I have to wait
+Can I get you now, or must I Hesitate.
+
+Eagle on the dollar says in god we trust
+Woman wants a man she wants to see a dollar first, tell me
+How long do I have to wait
+Can I get you now, or must I Hesitate.
+
+If the river was whiskey n' I was a divin' duck
+I'd swim to the bottom, lord, and never come up.
+How long do I have to wait
+Can I get you now, or must I Hesitate.
+
+Nickel is a nickel and a dime is a dime
+Houseful of children not one of them mine.
+How long do I have to wait
+Can I get you now, or must I Hesitate.
+
+Never been to heaven but I've been told
+St. Peter taught the angels how to jelly roll.
+How long do I have to wait
+Can I get you now, or must I Hesitate.
+
+
+I haven't heard this in years, but performed it regularly for twenty of 
+same; neither the arrangement nor the lyrics are quite the same as the 
+recording, there's been a "little" mutation with time, and this is a 
+simplification of both the original and what I play. Oh, by the way, 
+uploaded strictly for educational purposes.
